@@ -1,7 +1,8 @@
-AirBnB Clone
+0x00. AirBnB clone - The console
+================================
 
 Python Scripts
-
+===============================
 Allowed editors: vi, vim, emacs
 
 All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
@@ -22,12 +23,12 @@ All your modules should have a documentation (python3 -c 'print(__import__("my_m
 
 All your classes should have a documentation (python3 -c 'print(__import__("my_module").MyClass.__doc__)')
 
-All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__
-("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')
+All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')
 
 A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
 
 Python Unit Tests
+======================================
 
 Allowed editors: vi, vim, emacs
 
@@ -55,19 +56,9 @@ All your modules should have a documentation (python3 -c 'print(__import__("my_m
 
 All your classes should have a documentation (python3 -c 'print(__import__("my_module").MyClass.__doc__)')
 
-All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__
-("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')
+All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')
+
 We strongly encourage you to work together on test cases, so that you don’t miss any edge case
-GitHub
-
-There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
-
-More Info
-Execution
-Your shell should work like this in interactive mode:
-
-$ ./console.py
-(hbnb) help
 
 Documented commands (type help <topic>):
 ========================================
